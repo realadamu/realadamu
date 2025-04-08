@@ -12,11 +12,10 @@ My personal website: [www.ada-mu.com](https://www.ada-mu.com)
 - **Tools**: Docker, Kubernetes, Istio, Git, Makefile, Jmeter, pprof, etc.
 - **Best practice & methodology**: OOP, CI/CD, TDD, GoF design patterns, Microservice, Cloud Native, DevOps, SRE, etc.
 
-## Currently learning...
+## Currently Focusing on...
 
-- Embedded software development (mainly STM32)
-- FPGA (mainly Altera and Xilinx)
-- EDA
+- Software Design/Architectural Design
+- Performance Optimisation
 
 <!---
 realadamu/realadamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
