@@ -1,21 +1,18 @@
-# Ada Mu
+👋 Hi, I’m Ada He — a backend engineer specialising in **Java** and **Go** (Golang), with some **C/C++** experience.
 
-Hi, I'm Ada Mu (@realadamu), a postgraduate student interested in open-source software and software design.
+🎓 I’m currently pursuing a Master of Information Technology with a Bachelor's in Computer Science. I bring prior 1+ years of full-time experience, where I worked on system reliability, automation, and scalable infrastructure.
 
-My personal website: [www.ada-mu.com](https://www.ada-mu.com)
+💻 My core interests lie in distributed systems, microservices, and high-performance backend design. I'm proficient in **Go/Java concurrency** (Threads, GMP model, Go/Java performance optimisation), **Cloud Native** (Docker, Kubernetes, Istio), and **backend frameworks** (gRPC, Etcd, Kafka, Redis, MySQL). I’ve also independently designed microservice frameworks and built scalable automation platforms used by thousands of servers.
 
-## Professional Skills
+🛠️ Highlights:
 
-- **Programming language**: Go, Java, C/C++, Shell
-- **Library**: Spring Boot, Spring Cloud, gRPC, etc.
-- **DB**: MySQL, MongoDB, Postgres, Redis, etcd
-- **Tools**: Docker, Kubernetes, Istio, Git, Makefile, Jmeter, pprof, etc.
-- **Best practice & methodology**: OOP, CI/CD, TDD, GoF design patterns, Microservice, Cloud Native, DevOps, SRE, etc.
+- 📉 Reduced crash rate at OpenHarmony to **<0.05%** by **solving 50+ stability issues** and building a **binary-search-based automated testing tool** in Go.
+- 🚀 Boosted throughput **from 5000 QPS to 12000 QPS** for an operations automation system based on a **self-designed microservice framework** using **Event Loop model**, **gRPC** and **Etcd**.
+- ⚙️ Built a scalable **multi-channel alerting system** as an SRE tool supporting async messaging, failover, and timed dispatch with **<1s** deviation.
+- 🔧 Strong in **debugging concurrency issues** and **system bottlenecks** using tools like **pprof**, **structured logs**, and **JVM optimisation**.
+- 📚 A strong believer in **continuous learning** and **self-improvement**. Books I’ve read include *Site Reliability Engineering*, *High Performance MySQL*, and *Future Architecture: From Services to Cloud Native*.
 
-## Currently Focusing on...
-
-- Software Design/Architectural Design
-- Performance Optimisation
+📫 You can find me at [ada-mu.com](https://www.ada-mu.com) or email [muze.ada.he@gmail.com](mailto:muze.ada.he@gmail.com)
 
 <!---
 realadamu/realadamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
