@@ -2,7 +2,7 @@
 
 🎓 I’m currently pursuing a Master of Information Technology with a Bachelor's in Computer Science. I bring prior full-time experience at **Huawei Technologies** and **Garena**, where I worked on system reliability, automation, and scalable infrastructure.
 
-💻 My core interests are distributed architecture, software design, and back-end performance optimisation. I'm proficient in **Go/Java concurrency** (Threads, GMP model, Go/Java performance optimisation), **Cloud Native** (Docker, Podman, Kubernetes, Istio), and **back-end development** (Spring Boot, Spring Cloud, gRPC, Etcd, Kafka, Redis, MySQL). I’ve also independently designed microservice frameworks and built scalable automation platforms used by thousands of servers.
+💻 My core interests are distributed architecture, software design, and back-end performance optimisation. I'm proficient in **Go/Java concurrency** (Threads, GMP model, Go/Java performance optimisation), **Cloud Native** (Docker, Podman, Kubernetes, Istio), and **back-end development** (Spring Boot, Spring Cloud, gRPC, Etcd, Kafka, Redis, MySQL). I’ve also independently designed microservice frameworks based on Etcd and gRPC and built scalable automation platforms used by thousands of servers.
 
 🛠️ Highlights:
 
