@@ -12,7 +12,7 @@
 - 🔧 Strong in **debugging concurrency issues** and **system bottlenecks** using tools like **pprof**, **structured logs**, and **JVM optimisation**.
 - 📚 A strong believer in **continuous learning** and **self-improvement**. Books I’ve read include *Site Reliability Engineering*, *High Performance MySQL*, and *Future Architecture: From Services to Cloud Native*.
 
-📫 You can find me at [ada-mu.com](https://www.ada-mu.com) or email [muze.ada.he@gmail.com](mailto:muze.ada.he@gmail.com)
+📫 You can find me at [ada-he.com](https://www.ada-he.com) or email [muze.ada.he@gmail.com](mailto:muze.ada.he@gmail.com)
 
 <!---
 realadamu/realadamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
