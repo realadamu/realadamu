@@ -1,6 +1,6 @@
 👋 Hi, I’m Ada He — a backend engineer specialising in **Java** and **Go** (Golang), with some **C/C++** experience.
 
-🎓 I’m currently pursuing a Master of Information Technology with a Bachelor's in Computer Science. I bring prior full-time experience at **Huawei Technologies** and **Garena**, where I worked on system stability, automation, and scalable infrastructure.
+🎓 I’m currently pursuing a Master of Information Technology with a Bachelor's in Computer Science. I bring prior full-time experience at **Huawei Technologies** and **Garena**, where I worked on system reliability, automation, and scalable infrastructure.
 
 💻 My core interests are distributed systems, microservices, and high-performance backend design. I'm proficient in **Go/Java concurrency** (Threads, GMP model, Go/Java performance optimisation), **Cloud Native** (Docker, Kubernetes, Istio), and **backend frameworks** (gRPC, Etcd, Kafka, Redis, MySQL). I’ve also independently designed microservice frameworks and built scalable automation platforms used by thousands of servers.
 
